@@ -1,4 +1,4 @@
-# Clase-04-INTV2
+# Clase-04-INT
 ## Conectando Claude con Netlify
 **Descripción**
 * Utilizo los siguientes componentes en Claude:
